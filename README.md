@@ -20,12 +20,9 @@
 
 <br>
 
-### 📊 Minhas Estatísticas
+### 🐍 Minha Atividade
 <div align="center">
-  <img src="https://github.com/Lucassgsantos/Lucassgsantos/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-  <br><br>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucassgsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassgsantos&layout=compact&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/Lucassgsantos/Lucassgsantos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+<br>
