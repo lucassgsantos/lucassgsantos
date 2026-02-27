@@ -58,14 +58,3 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassgsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-BR"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassgsantos&layout=compact&langs_count=8&theme=tokyonight&locale=pt-BR"/>
-</div>
-
-<div align="center">
-  <h3>💬 Vamos nos conectar!</h3>
-  <p>Aberto a colaborações, projetos e novas oportunidades.</p>
-</div>
