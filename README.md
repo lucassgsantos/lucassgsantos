@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <img
+    src="assets/profile-banner-ocean.gif"
+    alt="Banner do Lucas Gabriel"
+    width="100%"
+  />
+</div>
 
-<!--
-**lucassgsantos/Lucassgsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucaspinheirodev/">
+    <img src="assets/contact-linkedin.png" alt="LinkedIn" height="46" />
+  </a>
+  <a href="mailto:lucas.gabrielpnr@gmail.com">
+    <img src="assets/contact-email.png" alt="Gmail" height="46" />
+  </a>
+</div>
